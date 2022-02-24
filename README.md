@@ -1,9 +1,15 @@
 # Lending Club Analysis
 This repository contains an Exploratory Data Analysis of the Lending Club Dataset.
 
+# Code
 Open the `EDA.ipynb` notebook to see the analysis, and open the `ZEST.py` module to see the code used to perform the analysis.
 
-**The conclusions of the analyis are as follows -**
+# Data
+The datasets are downloaded and unzipped from this link given in the question prompt - [click](https://www.kaggle.com/wordsforthewise/lending-club)
+
+Store the datasets in a `Data` directory (at the same level as the notebook and the module), to load them in the notebook for EDA.
+
+# Conclusions
 
 Applicants have a **better chance of loan approval** if they - 
 - Request moderate loan amounts (not too low, not too massive).
